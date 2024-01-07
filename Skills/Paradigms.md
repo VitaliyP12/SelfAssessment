@@ -1,15 +1,15 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
+  - Procedural programming 👂 heard
+  - Imperative programming 👂 heard
+  - Structured programming 👂 heard
   - Non-structured programming 👂 heard
-  - Functional programming
+  - Functional programming 👂 heard
   - Prototype-based programming 
-  - Object-oriented programming 👂 heard
-  - Object-based programming
-  - Generic programming
+  - Object-oriented programming 🎓 known
+  - Object-based programming 🎓 known
+  - Generic programming 👂 heard 
   - Concurrent computing 👂 heard
   - Asyncronous programming 👂 heard
   - Parallel programming 👂 heard
@@ -57,10 +57,10 @@
   - Bridge  🎓 known
   - Builder 👂 heard
   - Prototype 👂 heard
-  - Composite
+  - Composite 👂 heard
   - Decorator 👂 heard
-  - Flyweight
-  - Mediator
-  - Memento
-  - Template Method
-  - Visitor
+  - Flyweight 👂 heard
+  - Mediator 👂 heard
+  - Memento 👂 heard
+  - Template Method 👂 heard
+  - Visitor 👂 heard
