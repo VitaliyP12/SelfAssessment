@@ -2,7 +2,7 @@
 
 - Internals and concepts
   - Strong and weak sides of node.js 🎓 known 
-  - Stateful and stateless servers 👂 heard
+  - Stateful and stateless servers 🎓 known 
   - Nonblocking I/O and slocking code 🖐️ used
   - Event loop: phases 🖐️ used
   - Event loop: microtasks and macrotasks 🎓 known 
@@ -33,69 +33,69 @@
   - Clustering  🎓 known
   - Watch filesystem changes with --watch 🎓 known
 - Internal API
-  - Streams API 👂 heard
-  - Web Streams API 👂 heard
-  - Crypto API 👂 heard
+  - Streams API 🎓 known 
+  - Web Streams API 🎓 known 
+  - Crypto API 🎓 known 
   - Password hashing with node:crypto.scrypt 👂 heard
-  - Web Crypto API  👂 heard
+  - Web Crypto API 🎓 known 
   - File system API: sync and async 👂 heard
   - Copy folder recursively  🎓 known
   - Worker threads 👂 heard
   - Performance hooks 👂 heard
-  - Native fetch and nodejs/undici  👂 heard
-  - node:async_hooks 👂 heard
-  - AsyncLocalStorage
-  - AsyncResource
-  - Deprecated domain API
-  - Node.js single executable
-  - Stream back pressure
-  - SharedArrayBuffer
-  - node:worker_threads
-  - node:child_process
-  - MessageChannel, MessagePort
-  - BroadcastChannel
+  - Native fetch and nodejs/undici  🎓 known 
+  - node:async_hooks 🎓 known 
+  - AsyncLocalStorage 🎓 known 
+  - AsyncResource 🎓 known 
+  - Deprecated domain API 🎓 known 
+  - Node.js single executable 🎓 known 
+  - Stream back pressure 👂 heard
+  - SharedArrayBuffer 👂 heard
+  - node:worker_threads 👂 heard
+  - node:child_process 👂 heard
+  - MessageChannel, MessagePort 🎓 known
+  - BroadcastChannel 🎓 known
   - Generating crypto random UUID 👂 heard
   - node:url vs new URL 👂 heard
-  - node:assert
-  - Internationalization
+  - node:assert 🎓 known
+  - Internationalization 👂 heard
   - Blob, File, Buffer, node:buffer 👂 heard
-  - Module node:zlib
+  - Module node:zlib 👂 heard
 - Application structure and architecture
   - Isolation between layer 👂 heard
-  - Multilayer approach
+  - Multilayer approach🎓 known
   - Separation of concerns 👂 heard
-  - Inversion of control
-  - Dependency injection
-  - GRASP
-  - SOLID
+  - Inversion of control 🎓 known
+  - Dependency injection 👂 heard
+  - GRASP 
+  - SOLID 🎓 known
   - GoF patterns 👂 heard
-  - Distributed systems
-  - Highload applications
-  - Clean architecture
-  - DDD
-  - Message Queue
-  - CQS
-  - CQRS
+  - Distributed systems 👂 heard
+  - Highload applications 👂 heard
+  - Clean architecture 👂 heard
+  - DDD 👂 heard
+  - Message Queue 👂 heard
+  - CQS 👂 heard
+  - CQRS 👂 heard
   - Event sourcing 👂 heard
-  - Load balancing
-  - Serverless clouds
+  - Load balancing 👂 heard
+  - Serverless clouds 👂 heard
   - FaaS clouds 👂 heard
-  - Fat controller
+  - Fat controller 👂 heard
   - GoF for Node.js 👂 heard
-  - Leaking abstractions
-- Network
+  - Leaking abstractions 👂 heard
+- Network 
   - IP sticky sessions 🖐️ used
-  - Endpoint throttling
+  - Endpoint throttling 🎓 known
   - HTTP(S) 🖐️ used
   - TCP/SSL 🖐️ used
   - UDP
   - TLS
   - Websocket 🖐️ used
   - SSE
-  - HTTP/3 (QUIC)
-  - Long polling
-  - REST
-  - RPC
+  - HTTP/3 (QUIC) 🖐️ used
+  - Long polling 🎓 known
+  - REST 🖐️ used
+  - RPC 👂 heard
   - Routing
   - DoS 🖐️ used
   - DDoS 🖐️ used
