@@ -31,13 +31,13 @@
   - bitwise operators  🖐️ used
   - ternary operator 🖐️ used
   - void 🖐️ used
-  - yield 🎓 known
-  - await 🎓 known
+  - yield 🖐️ used
+  - await 🖐️ used
   - template literal 🎓 known
   - strict mode 🖐️ used
   - delete 🖐️ used
   - in 🖐️ used
-  - super 🎓 known
+  - super 🖐️ used
   - Symbol 🖐️ used 
   - Reflect🖐️ used
 - Statements
@@ -58,7 +58,7 @@
   - switch 🖐️ used
   - class 🖐️ used
   - new Error 🖐️ used 
-  - with 🎓 known
+  - with 🖐️ used
 - Functions
   - function declaration 🖐️ used 
   - function expression 🖐️ used 
